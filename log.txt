@@ -150,3 +150,66 @@ Thu Mar 30 18:05:16 +0000 2017 18: This is the ideal time in the season to eithe
 Wed Mar 29 16:58:38 +0000 2017 19: Congress voted to allow your internet provider to sell your browser history. Long story short, goodbye sweet internet.
 Tue Mar 28 20:07:40 +0000 2017 20: I was also once thrown off a United Airlines flight for wearing these https://t.co/qgyCovqEHI
 
+my-tweets,ConanOBrien
+Sat Apr 22 15:46:11 +0000 2017 1: For the record, yes, I found this photo to be deeply insulting: https://t.co/xzbRAp3WbH
+Fri Apr 21 17:20:16 +0000 2017 2: What if the man in Edvard Munch’s “The Scream” is actually just singing “Day-O” from “The Banana Boat Song?”
+Thu Apr 20 16:55:15 +0000 2017 3: I still don't know what nougat is.
+Wed Apr 19 19:20:20 +0000 2017 4: Pro tip: if you’re caught peeing in public, write the word “Hi” – now you’re expressing a First Amendment right.
+Tue Apr 18 18:40:15 +0000 2017 5: I demand a 5-hour energy drink where I choose when and how much energy to dole out, over the course of a century.
+Tue Apr 18 01:52:41 +0000 2017 6: This summer, camp counselors all over the country will shine flashlights under their chins and read the headlines.
+Sun Apr 16 17:25:08 +0000 2017 7: My two favorite things about Easter morning are (1) hiding the eggs and (2) the looks on my kids' faces when the snakes start to hatch.
+Sat Apr 15 18:40:55 +0000 2017 8: Pretty chill night. Hung out with these guys. https://t.co/1A65Da5cAS
+Fri Apr 14 17:45:10 +0000 2017 9: I wish President Trump would stop calling “Good Friday” “Tremendous Friday, the Greatest Friday you’ve ever seen.”
+Thu Apr 13 16:57:14 +0000 2017 10: The most exciting part of Easter egg hunts at my house is when suddenly the hunted become the hunters.
+Wed Apr 12 17:15:26 +0000 2017 11: MOVIE IDEA: Equels. It's the movie you're watching.
+Tue Apr 11 19:35:15 +0000 2017 12: Does it make me seem more badass if I drink this Sleepytime Herbal Tea out of a human skull?
+Mon Apr 10 18:50:19 +0000 2017 13: “Tinder is the Night” #UpdateAFitzgeraldNovel #HashtagsWithOnlyOneResponse
+Sun Apr 09 20:01:10 +0000 2017 14: Sometimes I think the bulk packages at Costco are too large. Who needs 12 condoms?!
+Sat Apr 08 17:30:34 +0000 2017 15: In Indiana, a 94-year-old woman has worked at McDonald’s for the past 44 years. And she’s almost finished paying off her student loans.
+Fri Apr 07 19:25:12 +0000 2017 16: Just think, pretty soon we'll have self-driving cars to masturbate in.
+Thu Apr 06 21:20:03 +0000 2017 17: I was thrilled to interview/be insulted non-stop by the legendary Don Rickles. I will sorely miss this incredibly funny and lovable man.
+Thu Apr 06 17:15:27 +0000 2017 18: I may not be the strongest person at the gym, but I defy you to find someone in this Curves with a better attitude.
+Wed Apr 05 18:55:14 +0000 2017 19: What has more failed launches? Trump businesses, or North Korea?
+Tue Apr 04 21:50:15 +0000 2017 20: I’m not worried about the stock market, because all my wealth is in individually wrapped bologna slices.
+
+movie-this,The Matrix
+The Matrix
+Year: 1999
+IMDb Rating: 8.7/10
+Country: USA
+Language: English
+
+Plot
+A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+
+Actors
+Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Website Link: http://www.whatisthematrix.com
+Rotten Tomatoes Rating: 87%
+
+movie-this,The Matrix
+The Matrix
+Year: 1999
+IMDb Rating: 8.7/10
+Country: USA
+Language: English
+
+Plot
+A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+
+Actors
+Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Website Link: http://www.whatisthematrix.com
+Rotten Tomatoes Rating: 87%
+
+spotify-this-song,"I Want it That Way"
+
+Artist: Backstreet Boys
+Name: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+Album: The Hits--Chapter One
+spotify-this-song,Killing in the Name
+Artist: Rage Against The Machine
+Name: Killing In The Name - Remastered
+Preview: https://p.scdn.co/mp3-preview/af0c42e6dacc0b8bb43c269ea2075c3de3ee2c7a?cid=null
+Album: Rage Against The Machine - XX (20th Anniversary Special Edition)

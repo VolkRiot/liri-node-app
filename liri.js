@@ -146,17 +146,17 @@ LiriInterface.prototype.getTweets = function (user) {
     count: 20
   };
 
-  this.Twitter.get('statuses/user_timeline', params, function(err, tweets, response) {
+  this.Twitter.get('statuses/user_timeline', params, function(err, tweets) {
     if (!err) {
       var string = '';
       tweets.forEach(function (tweet, index) {
-        var tweetString = tweet.created_at + ' ' + parseInt(index + 1) + ': ' + tweet.text + '\n';
+        var tweetString = tweet.created_at + ' ' + (index + 1) + ': ' + tweet.text + '\n';
         console.log(tweetString);
         string += tweetString;
       });
       this.output = string;
     }else{
-      console.log("Error were declared: " + err);
+      console.log("Error were declared: ", err);
     }
 
     console.log('\n');
@@ -180,7 +180,7 @@ LiriInterface.prototype.getSong = function (songChoice) {
       this.output = string;
       console.log(this.output);
     }else{
-      console.log('Error were declared: ' + err);
+      console.log('Error were declared: ', err);
     }
 
     this.writeToFile();
@@ -216,7 +216,7 @@ LiriInterface.prototype.getMovie = function(movie){
       console.log(this.output);
 
     }else{
-      console.log('Error were declared: ' + err);
+      console.log('Error were declared: ', err);
     }
 
     this.writeToFile();
@@ -232,13 +232,11 @@ LiriInterface.prototype.readInRun = function(){
 
     if(!err){
       var array = data.split(',');
-
-      //TODO: Change this to read in all possible commands in sets of two?
-
+      
       this.delegate(array[0], array[1]);
 
     }else{
-      console.log("Looks like the readFile failed");
+      console.log("Looks like the readFile failed ", err);
     }
 
   }.bind(this));
@@ -252,11 +250,10 @@ LiriInterface.prototype.writeToFile = function () {
   array.push(this.inputVal);
 
   var commOutputString = array + '\n' + this.output + '\n';
-  console.log(commOutputString);
 
   this.fileIO.appendFile("log.txt", commOutputString, function (err) {
     if(err){
-      console.log('Error were declared.')
+      console.log('Error were declared. ', err)
     }
   })
 
